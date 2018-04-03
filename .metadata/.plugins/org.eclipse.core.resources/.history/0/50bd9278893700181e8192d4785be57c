@@ -1,0 +1,3 @@
+object Functions {
+  val x = println(2)                              //> Welcome to the Scala worksheet
+}

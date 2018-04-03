@@ -1,0 +1,5 @@
+object SpecialFunctions {
+  ((x:Int) => x+1) (5)                            //> res0: Int = 6
+  val f = ((x:Int) => x+1)                        //> f  : Int => Int = SpecialFunctions$$$Lambda$9/488970385@48140564
+  f(5)                                            //> res1: Int = 6
+}

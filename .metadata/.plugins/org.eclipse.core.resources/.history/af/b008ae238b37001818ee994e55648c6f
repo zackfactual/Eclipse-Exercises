@@ -1,0 +1,21 @@
+object CallBy {
+                      //> Welcome to the Scala worksheet
+  def something() = {
+    println("inside calling something")
+    5 // return value
+  }
+	
+	def callByValue(x: Int) = { //> Welcome to the Scala worksheet
+    println("call by value: ")
+    println("x1 = " + x)
+    println("x2 = " + x)
+  }
+  callByValue(something())
+  
+  def callByName(x: => Int) = {
+  		println("call by name: ")
+    println("x1 = " + x)
+    println("x2 = " + x)
+  }
+  callByName(something())
+}
