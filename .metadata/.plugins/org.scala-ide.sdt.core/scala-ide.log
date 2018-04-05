@@ -1535,3 +1535,449 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2018-04-04 13:30:22,143  WARN [Worker-45] - ScalaProject - Project SetsAndMaps runs on platform default installation.
 2018-04-04 13:30:22,571  WARN [Worker-45] - ScalaProject - Project Tuples has platform default sourceLevel.
 2018-04-04 13:30:22,571  WARN [Worker-45] - ScalaProject - Project Tuples runs on platform default installation.
+2018-04-05 10:14:08,041 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:14:08,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:14:08,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:15:52,930  WARN [Worker-78] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:15:52,931  WARN [Worker-78] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:15:54,454  WARN [Worker-81] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:15:54,454  WARN [Worker-81] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:16:06,997  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:16:06,998  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:16:08,426  WARN [Worker-80] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:16:08,426  WARN [Worker-80] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:16:48,005  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:16:48,005  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:16:58,796  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:16:58,796  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:06,028  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:06,029  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:07,452  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:07,452  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:15,803  WARN [Worker-83] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:15,803  WARN [Worker-83] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:17,222  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:17,222  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:37,344  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:37,344  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:38,754  WARN [Worker-80] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:38,754  WARN [Worker-80] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:56,144  WARN [Worker-80] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:56,144  WARN [Worker-80] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:17:57,553  WARN [Worker-87] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:17:57,553  WARN [Worker-87] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:18:14,881  WARN [Worker-64] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:18:14,881  WARN [Worker-64] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:18:16,289  WARN [Worker-65] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:18:16,290  WARN [Worker-65] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:18:43,478  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:18:43,478  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:18:44,891  WARN [Worker-78] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:18:44,891  WARN [Worker-78] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:19:54,015  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:19:54,015  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:19:55,435  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:19:55,435  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:20:18,587  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:20:18,587  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:20:19,994  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:20:19,994  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:20:49,765  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:20:49,765  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:20:51,186  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:20:51,187  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:21:53,272  WARN [Worker-87] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:21:53,272  WARN [Worker-87] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:21:54,701  WARN [Worker-64] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:21:54,701  WARN [Worker-64] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:22:20,712  WARN [Worker-78] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:22:20,714  WARN [Worker-78] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:22:22,165  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:22:22,168  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:00,874  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:00,874  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:02,356  WARN [Worker-79] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:02,356  WARN [Worker-79] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:10,233  WARN [Worker-80] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:10,233  WARN [Worker-80] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:11,672  WARN [Worker-64] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:11,672  WARN [Worker-64] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:31,427  WARN [Worker-81] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:31,427  WARN [Worker-81] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:32,848  WARN [Worker-84] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:32,848  WARN [Worker-84] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:24:58,766  WARN [Worker-87] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:24:58,766  WARN [Worker-87] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:06,043  WARN [Worker-86] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:06,043  WARN [Worker-86] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:07,464  WARN [Worker-79] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:07,464  WARN [Worker-79] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:16,594  WARN [Worker-83] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:16,594  WARN [Worker-83] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:18,019  WARN [Worker-85] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:18,020  WARN [Worker-85] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:47,332  WARN [Worker-64] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:47,332  WARN [Worker-64] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:25:48,824  WARN [Worker-81] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:25:48,824  WARN [Worker-81] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:26:39,742  WARN [Worker-64] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:26:39,742  WARN [Worker-64] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:26:41,169  WARN [Worker-80] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:26:41,169  WARN [Worker-80] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:27:10,533  WARN [Worker-83] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:27:10,534  WARN [Worker-83] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:27:11,955  WARN [Worker-78] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:27:11,955  WARN [Worker-78] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 10:27:52,643  WARN [ModalContext] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:27:52,643  WARN [ModalContext] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:27:52,906  WARN [Worker-79] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:27:52,906  WARN [Worker-79] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:28:17,980  WARN [Worker-81] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:28:17,981  WARN [Worker-81] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:28:18,013  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-73] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:28:18,013  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-73] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:28:19,412  WARN [Worker-85] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:28:19,412  WARN [Worker-85] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:35,126  WARN [Worker-83] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:35,126  WARN [Worker-83] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:36,542  WARN [Worker-83] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:36,542  WARN [Worker-83] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:47,212  WARN [Worker-63] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:47,212  WARN [Worker-63] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:48,625  WARN [Worker-63] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:48,625  WARN [Worker-63] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:53,688  WARN [Worker-65] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:53,689  WARN [Worker-65] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:29:55,095  WARN [Worker-85] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:29:55,095  WARN [Worker-85] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:30:43,586  WARN [Worker-65] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:30:43,586  WARN [Worker-65] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:30:44,997  WARN [Worker-64] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:30:44,997  WARN [Worker-64] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:31:39,151  WARN [Worker-79] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:31:39,151  WARN [Worker-79] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:31:40,567  WARN [Worker-81] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:31:40,568  WARN [Worker-81] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:31:58,725  WARN [Worker-78] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:31:58,725  WARN [Worker-78] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:32:00,138  WARN [Worker-79] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:32:00,138  WARN [Worker-79] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:32:19,099  WARN [Worker-64] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:32:19,099  WARN [Worker-64] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:32:20,506  WARN [Worker-84] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:32:20,506  WARN [Worker-84] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:33:57,973  WARN [Worker-81] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:33:57,975  WARN [Worker-81] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:33:59,402  WARN [Worker-84] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:33:59,402  WARN [Worker-84] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:34:11,601  WARN [Worker-84] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:34:11,601  WARN [Worker-84] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:34:13,005  WARN [Worker-79] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:34:13,006  WARN [Worker-79] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:35:52,674  WARN [Worker-80] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:35:52,674  WARN [Worker-80] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:35:54,090  WARN [Worker-85] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:35:54,090  WARN [Worker-85] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:35:58,485  WARN [Worker-81] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:35:58,485  WARN [Worker-81] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:36:08,657  WARN [Worker-63] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:36:08,657  WARN [Worker-63] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:36:10,116  WARN [Worker-81] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:36:10,116  WARN [Worker-81] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:36:14,933  WARN [Worker-83] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:36:14,933  WARN [Worker-83] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:36:16,346  WARN [Worker-83] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:36:16,346  WARN [Worker-83] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:37:18,194  WARN [Worker-79] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:37:18,194  WARN [Worker-79] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:37:19,598  WARN [Worker-87] - ScalaProject - Project Arrays has platform default sourceLevel.
+2018-04-05 10:37:19,598  WARN [Worker-87] - ScalaProject - Project Arrays runs on platform default installation.
+2018-04-05 10:38:37,837  WARN [ModalContext] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:38:37,837  WARN [ModalContext] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:38:38,081  WARN [Worker-81] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:38:38,081  WARN [Worker-81] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:38:44,278  WARN [Worker-79] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:38:44,278  WARN [Worker-79] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:38:44,299  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-88] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:38:44,300  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-88] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:38:45,708  WARN [Worker-79] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:38:45,708  WARN [Worker-79] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:39:54,698  WARN [Worker-63] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:39:54,698  WARN [Worker-63] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:39:56,102  WARN [Worker-83] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:39:56,102  WARN [Worker-83] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:42:11,446  WARN [Worker-84] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:42:11,446  WARN [Worker-84] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:42:12,857  WARN [Worker-64] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:42:12,857  WARN [Worker-64] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:43:01,075  WARN [Worker-80] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:43:01,075  WARN [Worker-80] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:43:02,485  WARN [Worker-79] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:43:02,486  WARN [Worker-79] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:44:21,116  WARN [Worker-86] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:44:21,116  WARN [Worker-86] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:44:22,531  WARN [Worker-80] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:44:22,535  WARN [Worker-80] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,840 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,841 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,842 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,843 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:44:49,844 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 10:45:00,042  WARN [Worker-65] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:45:00,042  WARN [Worker-65] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:45:02,773  WARN [Worker-78] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:45:02,773  WARN [Worker-78] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:45:04,180  WARN [Worker-84] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:45:04,180  WARN [Worker-84] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:45:40,806  WARN [Worker-65] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:45:40,806  WARN [Worker-65] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:45:42,224  WARN [Worker-87] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:45:42,224  WARN [Worker-87] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:47:05,729  WARN [Worker-64] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:47:05,730  WARN [Worker-64] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:47:07,135  WARN [Worker-80] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:47:07,136  WARN [Worker-80] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:47:57,908  WARN [Worker-85] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:47:57,908  WARN [Worker-85] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:47:59,319  WARN [Worker-83] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:47:59,319  WARN [Worker-83] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:48:40,420  WARN [Worker-63] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:48:40,420  WARN [Worker-63] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:48:41,837  WARN [Worker-81] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:48:41,837  WARN [Worker-81] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:49:55,979  WARN [Worker-81] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:49:55,980  WARN [Worker-81] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:49:57,389  WARN [Worker-83] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:49:57,389  WARN [Worker-83] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:50:07,468  WARN [Worker-85] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:50:07,468  WARN [Worker-85] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:50:08,879  WARN [Worker-65] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:50:08,880  WARN [Worker-65] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:50:56,749  WARN [Worker-80] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:50:56,749  WARN [Worker-80] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:50:58,158  WARN [Worker-86] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:50:58,158  WARN [Worker-86] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:51:32,632  WARN [Worker-80] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:51:32,632  WARN [Worker-80] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:51:34,044  WARN [Worker-84] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:51:34,044  WARN [Worker-84] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:52:18,264  WARN [Worker-84] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:52:18,264  WARN [Worker-84] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:52:19,676  WARN [Worker-79] - ScalaProject - Project Lists has platform default sourceLevel.
+2018-04-05 10:52:19,676  WARN [Worker-79] - ScalaProject - Project Lists runs on platform default installation.
+2018-04-05 10:56:57,019  WARN [ModalContext] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 10:56:57,019  WARN [ModalContext] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 10:56:57,272  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 10:56:57,272  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 10:57:06,069  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 10:57:06,069  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 10:57:06,104  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-99] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 10:57:06,104  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-99] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 10:57:07,491  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 10:57:07,491  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 10:57:21,951  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project SetsAndMaps has platform default sourceLevel.
+2018-04-05 10:57:21,955  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project SetsAndMaps runs on platform default installation.
+2018-04-05 11:03:12,947  WARN [Worker-86] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:03:12,948  WARN [Worker-86] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:03:14,369  WARN [Worker-64] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:03:14,369  WARN [Worker-64] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:04:07,190  WARN [Worker-64] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:04:07,191  WARN [Worker-64] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:04:08,605  WARN [Worker-63] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:04:08,605  WARN [Worker-63] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:04:25,063  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:04:25,063  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:04:26,495  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:04:26,496  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:05:00,971  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:05:00,972  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:05:07,254  WARN [Worker-83] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:05:07,254  WARN [Worker-83] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:05:08,664  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:05:08,664  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:05:22,528  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:05:22,528  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:05:23,960  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:05:23,960  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:06:24,056  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:06:24,056  WARN [Worker-81] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:06:25,471  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:06:25,471  WARN [Worker-79] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:06:32,835  WARN [Worker-83] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:06:32,835  WARN [Worker-83] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:06:34,268  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:06:34,268  WARN [Worker-65] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:26:46,091  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:26:46,091  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:26:47,507  WARN [Worker-80] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:26:47,508  WARN [Worker-80] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:27:51,972  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:27:51,972  WARN [Worker-84] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:27:53,382  WARN [Worker-85] - ScalaProject - Project MovieMapChallenge has platform default sourceLevel.
+2018-04-05 11:27:53,382  WARN [Worker-85] - ScalaProject - Project MovieMapChallenge runs on platform default installation.
+2018-04-05 11:30:29,202  WARN [ModalContext] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:30:29,202  WARN [ModalContext] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:30:29,446  WARN [Worker-84] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:30:29,446  WARN [Worker-84] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:30:40,112  WARN [Worker-86] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:30:40,112  WARN [Worker-86] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:30:40,143  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-109] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:30:40,144  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-109] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:30:41,549  WARN [Worker-87] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:30:41,549  WARN [Worker-87] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:35:52,861  WARN [Worker-84] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:35:52,861  WARN [Worker-84] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:36:16,709  WARN [Worker-85] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:36:16,709  WARN [Worker-85] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:36:18,155  WARN [Worker-88] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:36:18,156  WARN [Worker-88] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:44:17,215  WARN [Worker-93] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:44:17,215  WARN [Worker-93] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:44:18,633  WARN [Worker-88] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:44:18,633  WARN [Worker-88] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:44:40,450  WARN [Worker-92] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:44:40,450  WARN [Worker-92] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:44:41,873  WARN [Worker-78] - ScalaProject - Project ClassesFieldsMethods has platform default sourceLevel.
+2018-04-05 11:44:41,873  WARN [Worker-78] - ScalaProject - Project ClassesFieldsMethods runs on platform default installation.
+2018-04-05 11:46:10,007  WARN [ModalContext] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:46:10,007  WARN [ModalContext] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:46:10,249  WARN [Worker-84] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:46:10,249  WARN [Worker-84] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:46:24,241  WARN [Worker-84] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:46:24,241  WARN [Worker-84] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:46:24,266  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-118] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:46:24,266  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-118] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:46:25,670  WARN [Worker-86] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:46:25,670  WARN [Worker-86] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:51:15,592  WARN [Worker-88] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:51:15,592  WARN [Worker-88] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:51:17,131  WARN [Worker-86] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:51:17,131  WARN [Worker-86] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:56:18,267 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-04-05 11:56:28,734  WARN [Worker-84] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:56:28,734  WARN [Worker-84] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:56:30,219  WARN [Worker-87] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:56:30,220  WARN [Worker-87] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:59:47,045  WARN [Worker-63] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:59:47,045  WARN [Worker-63] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 11:59:48,489  WARN [Worker-88] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 11:59:48,489  WARN [Worker-88] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 12:00:21,637  WARN [Worker-89] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 12:00:21,637  WARN [Worker-89] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 12:00:23,072  WARN [Worker-92] - ScalaProject - Project CaseClasses has platform default sourceLevel.
+2018-04-05 12:00:23,072  WARN [Worker-92] - ScalaProject - Project CaseClasses runs on platform default installation.
+2018-04-05 12:10:28,567  WARN [ModalContext] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:10:28,568  WARN [ModalContext] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:10:28,823  WARN [Worker-94] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:10:28,823  WARN [Worker-94] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:10:38,608  WARN [Worker-86] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:10:38,608  WARN [Worker-86] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:10:38,646  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-129] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:10:38,646  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-129] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:10:40,045  WARN [Worker-84] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:10:40,045  WARN [Worker-84] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:17:50,396  WARN [Worker-93] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:17:50,397  WARN [Worker-93] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:17:51,848  WARN [Worker-91] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:17:51,848  WARN [Worker-91] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:21:27,853  WARN [Worker-86] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:21:27,853  WARN [Worker-86] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:21:29,308  WARN [Worker-90] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:21:29,308  WARN [Worker-90] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:21:51,680  WARN [Worker-91] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:21:51,680  WARN [Worker-91] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:21:53,107  WARN [Worker-85] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:21:53,107  WARN [Worker-85] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:24:00,247  WARN [Worker-89] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:24:00,248  WARN [Worker-89] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:24:01,682  WARN [Worker-85] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:24:01,683  WARN [Worker-85] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:24:17,952  WARN [Worker-95] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:24:17,952  WARN [Worker-95] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:24:19,368  WARN [Worker-63] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:24:19,368  WARN [Worker-63] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:26:20,061  WARN [Worker-91] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:26:20,061  WARN [Worker-91] - ScalaProject - Project NameListChallenge runs on platform default installation.
+2018-04-05 12:26:21,530  WARN [Worker-91] - ScalaProject - Project NameListChallenge has platform default sourceLevel.
+2018-04-05 12:26:21,530  WARN [Worker-91] - ScalaProject - Project NameListChallenge runs on platform default installation.
